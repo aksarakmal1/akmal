@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**javadev/javadev** is a ✨ _special_ ✨ repository because its `README.md` (this file)
-appears on your GitHub profile.
--->
 
 ## 📈 My GitHub Stats
 
@@ -16,7 +12,7 @@ appears on your GitHub profile.
             &bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/javadev">
+<a href="https://github.com/aksarakmal1">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=aksarakmal1
             &show_icons=true
